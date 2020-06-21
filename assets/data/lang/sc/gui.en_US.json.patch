@@ -1,0 +1,13 @@
+{
+  "labels": {
+    "options": {
+      "headers": {
+        "mod-collision": "collision"
+      },
+      "show-collisions": {
+        "name": "Show collision maps",
+        "description": "Show collision maps"
+      }
+    }
+  }
+}

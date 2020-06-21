@@ -1,0 +1,2 @@
+1. write a README with screenshots
+2. possibly rewrite the code to inject into map rendering code
